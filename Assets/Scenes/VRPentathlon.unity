@@ -5329,12 +5329,12 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 8270855663187062767, guid: 1392f805216c47742996d4742c80721c, type: 3}
+  m_ModelPrefab: {fileID: 653768722967962946, guid: 0505d1716fdec3741b5b4d8301fd19e3, type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
-  m_AnimateModel: 0
-  m_ModelSelectTransition: 
-  m_ModelDeSelectTransition: 
+  m_AnimateModel: 1
+  m_ModelSelectTransition: Select
+  m_ModelDeSelectTransition: DeSelect
   m_PositionAction:
     m_UseReference: 1
     m_Action:
@@ -9573,12 +9573,12 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 3475118261464492563, guid: 9f3369e30fbd31f4bb596b1a99babe83, type: 3}
+  m_ModelPrefab: {fileID: 7066306030598403225, guid: e6f3e892320ffeb4b95af9b4de8bf7a2, type: 3}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
-  m_AnimateModel: 0
-  m_ModelSelectTransition: 
-  m_ModelDeSelectTransition: 
+  m_AnimateModel: 1
+  m_ModelSelectTransition: Select
+  m_ModelDeSelectTransition: DeSelect
   m_PositionAction:
     m_UseReference: 1
     m_Action:
@@ -16521,7 +16521,7 @@ Transform:
   m_GameObject: {fileID: 1629255784}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.6225146, z: 0, w: 0.7826082}
-  m_LocalPosition: {x: -73, y: 0, z: -46}
+  m_LocalPosition: {x: -48.9, y: 0.1, z: -53.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -16895,7 +16895,7 @@ Transform:
   m_GameObject: {fileID: 1662100232}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.1176, z: 0}
+  m_LocalPosition: {x: -0.6, y: 1.1176, z: 0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
